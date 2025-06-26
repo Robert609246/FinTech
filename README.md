@@ -26,7 +26,7 @@ This project simulates automated trading on the World of Warcraft Auction House 
 |------|-------------|
 | `WoWHead_Scraper.py` | Scrapes news articles from WoWHead (URL, date, content). |
 | `Qual+Quant Analysis.py` | Sends articles to ChatGPT to extract affected items + impact scores. |
-| `AH_Scraper.py` | Collects raw auction house data. Outputs `aggregated_wow_ah_monthly.csv` used by all simulators. ✅ Part of the pipeline. |
+| `AH_Scraper.py` | Collects raw auction house data. Outputs `aggregated_wow_ah_monthly.csv` used by all simulators. Part of the pipeline. |
 
 ---
 
